@@ -1,3 +1,13 @@
+<!doctype html>
+<html lang="en-GB" prefix="og: https://ogp.me/ns#">
+<head>
+	
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+				<!-- Google Analytics opt-out snippet added by Site Kit -->
+						<script>
 window["ga-disable-G-JRP71BTCVW"] = true;
 </script>
 			<!-- End Google Analytics opt-out snippet added by Site Kit -->
@@ -555,3 +565,7 @@ var rankMath = {"version":"1.0.205","ajaxurl":"https:\/\/https://amkmedia.github
 var ct_localizations = {"ajax_url":"https:\/\/amkmedia.online\/wp-admin\/admin-ajax.php","nonce":"badd99c85b","public_url":"https:\/\/amkmedia.online\/wp-content\/themes\/blocksy\/static\/bundle\/","rest_url":"https:\/\/amkmedia.online\/wp-json\/","search_url":"https:\/\/amkmedia.online\/search\/QUERY_STRING\/","show_more_text":"Show more","more_text":"More","search_live_results":"Search results","search_live_no_result":"No results","search_live_one_result":"You got %s result. Please press Tab to select it.","search_live_many_results":"You got %s results. Please press Tab to select one.","expand_submenu":"Expand dropdown menu","collapse_submenu":"Collapse dropdown menu","dynamic_js_chunks":[],"dynamic_styles":{"lazy_load":"https:\/\/amkmedia.online\/wp-content\/themes\/blocksy\/static\/bundle\/non-critical-styles.min.css","search_lazy":"https:\/\/amkmedia.online\/wp-content\/themes\/blocksy\/static\/bundle\/non-critical-search-styles.min.css"},"dynamic_styles_selectors":[]};
 </script>
 <script src='https://amkmedia.online/wp-content/themes/blocksy/static/bundle/main.js?ver=1.9.8' id='ct-scripts-js'></script>
+
+</script>
+</body>
+</html
