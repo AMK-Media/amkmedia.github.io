@@ -13,7 +13,7 @@ window["ga-disable-G-JRP71BTCVW"] = true;
 			<!-- End Google Analytics opt-out snippet added by Site Kit -->
 			<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/8bedef9cf8e46447a023978d/script.js"></script>
 <!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
-<title>amkmedia.github.io</title>
+<title>Make Money Online With AMK Media</title>
 <meta name="robots" content="follow, index"/>
 <meta property="og:locale" content="en_GB" />
 <meta property="og:type" content="website" />
