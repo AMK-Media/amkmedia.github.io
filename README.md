@@ -1,4 +1,24 @@
-{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://amkmedia.online/#person","name":"AMK Media","url":"https://amkmedia.github.io/","image":{"@type":"ImageObject","@id":"https://amkmedia.online/#logo","url":"http://amkmedia.online/wp-content/uploads/2023/10/Screenshot-2023-10-15-142528.png","contentUrl":"http://amkmedia.online/wp-content/uploads/2023/10/Screenshot-2023-10-15-142528.png","caption":"Make Money Online With AMK Media","inLanguage":"en-GB","width":"161","height":"24"}},{"@type":"WebSite","@id":"https://amkmedia.github.io/#website","url":"https://amkmedia.github.io/","name":"Make Money Online With AMK Media","alternateName":"Make Money Online","publisher":{"@id":"https://amkmedia.github.io/#person"},"inLanguage":"en-GB"},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://amkmedia.github.io/","name":"Home"}}]},{"@type":"CollectionPage","@id":"#webpage","url":"","isPartOf":{"@id":"https://amkmedia.github.io/#website"},"inLanguage":"en-GB","breadcrumb":{"@id":"#breadcrumb"}}]}</script>
+<html lang="en-GB" prefix="og: https://ogp.me/ns#">
+<head>
+	
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+				<!-- Google Analytics opt-out snippet added by Site Kit -->
+						<script>
+window["ga-disable-G-JRP71BTCVW"] = true;
+</script>
+			<!-- End Google Analytics opt-out snippet added by Site Kit -->
+			<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/8bedef9cf8e46447a023978d/script.js"></script>
+<!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
+<title>Make Money Online With AMK Media</title>
+<meta name="robots" content="follow, index"/>
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Make Money Online With AMK Media" />
+<meta name="twitter:card" content="summary_large_image" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://amkmedia.online/#person","name":"AMK Media","url":"https://amkmedia.github.io/","image":{"@type":"ImageObject","@id":"https://amkmedia.online/#logo","url":"http://amkmedia.online/wp-content/uploads/2023/10/Screenshot-2023-10-15-142528.png","contentUrl":"http://amkmedia.online/wp-content/uploads/2023/10/Screenshot-2023-10-15-142528.png","caption":"Make Money Online With AMK Media","inLanguage":"en-GB","width":"161","height":"24"}},{"@type":"WebSite","@id":"https://amkmedia.github.io/#website","url":"https://amkmedia.github.io/","name":"Make Money Online With AMK Media","alternateName":"Make Money Online","publisher":{"@id":"https://amkmedia.github.io/#person"},"inLanguage":"en-GB"},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://amkmedia.github.io/","name":"Home"}}]},{"@type":"CollectionPage","@id":"#webpage","url":"","isPartOf":{"@id":"https://amkmedia.github.io/#website"},"inLanguage":"en-GB","breadcrumb":{"@id":"#breadcrumb"}}]}</script>
 <!-- /Rank Math WordPress SEO plugin -->
 
 <link rel='dns-prefetch' href='//www.googletagmanager.com' />
@@ -544,7 +564,3 @@ var rankMath = {"version":"1.0.205","ajaxurl":"https:\/\/https://amkmedia.github
 var ct_localizations = {"ajax_url":"https:\/\/amkmedia.online\/wp-admin\/admin-ajax.php","nonce":"badd99c85b","public_url":"https:\/\/amkmedia.online\/wp-content\/themes\/blocksy\/static\/bundle\/","rest_url":"https:\/\/amkmedia.online\/wp-json\/","search_url":"https:\/\/amkmedia.online\/search\/QUERY_STRING\/","show_more_text":"Show more","more_text":"More","search_live_results":"Search results","search_live_no_result":"No results","search_live_one_result":"You got %s result. Please press Tab to select it.","search_live_many_results":"You got %s results. Please press Tab to select one.","expand_submenu":"Expand dropdown menu","collapse_submenu":"Collapse dropdown menu","dynamic_js_chunks":[],"dynamic_styles":{"lazy_load":"https:\/\/amkmedia.online\/wp-content\/themes\/blocksy\/static\/bundle\/non-critical-styles.min.css","search_lazy":"https:\/\/amkmedia.online\/wp-content\/themes\/blocksy\/static\/bundle\/non-critical-search-styles.min.css"},"dynamic_styles_selectors":[]};
 </script>
 <script src='https://amkmedia.online/wp-content/themes/blocksy/static/bundle/main.js?ver=1.9.8' id='ct-scripts-js'></script>
-
-</script>
-</body>
-</html
