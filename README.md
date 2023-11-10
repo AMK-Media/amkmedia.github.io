@@ -2,7 +2,7 @@
 <head>
 	
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=2, maximum-scale=5, viewport-fit=cover">
+	<meta name="viewport" content="width=device-width, initial-scale=5, maximum-scale=5, viewport-fit=cover">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
 						<script>
