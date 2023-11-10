@@ -2,7 +2,7 @@
 <head>
 	
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=5, maximum-scale=10, viewport-fit=cover">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
 						<script>
@@ -15,7 +15,7 @@ window["ga-disable-G-JRP71BTCVW"] = true;
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Make Money Online With AMK Media" />
 <meta name="twitter:card" content="summary_large_image" />
-<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://amkmedia.online/#person","name":"AMK Media","url":"https://amkmedia.github.io/","image":{"@type":"ImageObject","@id":"https://amkmedia.online/#logo","url":"http://amkmedia.online/wp-content/uploads/2023/10/Screenshot-2023-10-15-142528.png","contentUrl":"http://amkmedia.online/wp-content/uploads/2023/10/Screenshot-2023-10-15-142528.png","caption":"Make Money Online With AMK Media","inLanguage":"en-GB","width":"161","height":"24"}},{"@type":"WebSite","@id":"https://amkmedia.github.io/#website","url":"index(home page).html","name":"Make Money Online With AMK Media","alternateName":"Make Money Online","publisher":{"@id":"https://amkmedia.github.io/#person"},"inLanguage":"en-GB"},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"index(home page).html","name":"Home"}}]},{"@type":"CollectionPage","@id":"#webpage","url":"","isPartOf":{"@id":"https://amkmedia.github.io/#website"},"inLanguage":"en-GB","breadcrumb":{"@id":"#breadcrumb"}}]}</script>
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://amkmedia.online/#person","name":"AMK Media","url":"https://amkmedia.com/","image":{"@type":"ImageObject","@id":"https://amkmedia.online/#logo","url":"http://amkmedia.online/wp-content/uploads/2023/10/Screenshot-2023-10-15-142528.png","contentUrl":"http://amkmedia.online/wp-content/uploads/2023/10/Screenshot-2023-10-15-142528.png","caption":"Make Money Online With AMK Media","inLanguage":"en-GB","width":"161","height":"24"}},{"@type":"WebSite","@id":"https://amkmedia.github.io/#website","url":"index(home page).html","name":"Make Money Online With AMK Media","alternateName":"Make Money Online","publisher":{"@id":"https://amkmedia.github.io/#person"},"inLanguage":"en-GB"},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"index(home page).html","name":"Home"}}]},{"@type":"CollectionPage","@id":"#webpage","url":"","isPartOf":{"@id":"https://amkmedia.github.io/#website"},"inLanguage":"en-GB","breadcrumb":{"@id":"#breadcrumb"}}]}</script>
 
 <link rel='dns-prefetch' href='//www.googletagmanager.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
