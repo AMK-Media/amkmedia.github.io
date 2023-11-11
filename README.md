@@ -10,6 +10,15 @@ Welcome to our finance website focused on helping beginners make money online. W
 - [Featured Opportunities](#featured-opportunities)
 
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J8B1NSRNSG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J8B1NSRNSG');
+</script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6073009479701905"
      crossorigin="anonymous"></script>
 <head>
