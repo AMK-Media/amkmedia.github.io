@@ -1,5 +1,5 @@
 # Welcome to AMK Media
-<h3 class="wp-block-heading"><p><a href="index(home page).html"><strong>Open My Website</strong></a></p></h2>
+<a href="index(home page).html"><strong>Open My Website</strong></a></p></h2>
 Welcome to our finance website focused on helping beginners make money online. We provide easy and accessible tips on various online money-making methods. Whether you're interested in passive income, freelancing, or starting your own online business, we've got you covered. Join our community and start your journey to financial freedom! 
 <br> <!-- This adds a line break, creating vertical space -->
 ## Table of Contents
