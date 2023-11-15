@@ -1,3 +1,4 @@
+<meta name="robots" content="noindex">
 User-agent: *
-Disallow: /private/
-Disallow: /restricted/
+Disallow: /robots.txt
+Disallow: /google16ff65c90c4d28ef.html
