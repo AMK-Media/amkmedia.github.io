@@ -5,9 +5,9 @@
   <title>Redirecting to home page</title>
 </head>
 <body>
-  <p>If you are not redirected, <a href="index(home page).html">click here</a>.</p>
+  <p>If you are not redirected, <a href="index(homepage).html">click here</a>.</p>
   <script>
-    window.location.href = "index(home page).html";
+    window.location.href = "index(homepage).html";
   </script>
 </body>
 </html>
