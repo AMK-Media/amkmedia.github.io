@@ -1,4 +1,8 @@
 <meta name="robots" content="noindex">
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
 User-agent: *
-Disallow: /robots.txt
-Disallow: /google16ff65c90c4d28ef.html
+Allow: /
+
+Sitemap: https://amkmedia.uk/sitemap.xml
