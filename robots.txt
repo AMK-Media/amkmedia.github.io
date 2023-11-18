@@ -5,4 +5,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://amkmedia.uk/sitemap.xml
+Sitemap: https://amkmedia.online/sitemap.xml
