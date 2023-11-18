@@ -6,6 +6,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://amkmedia.online/sitemap.xml
-
-<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6073009479701905"
-		crossorigin="anonymous"></script></head>
